@@ -117,7 +117,7 @@ seconds for the inputs, Selection sort took 7, 12, 17, and 31 seconds for each i
 can see quick sort and heap sort aren't growning very quickly, while selection sort is growing
 rapidly with input size increase.
 
-	Included are the following plots:
+	Included are the following plots:fff
 	     quick.ps - QuickSort graph.
 	     selection.ps - SelectionSort graph.
 	     heap.ps - HeapSort graph.

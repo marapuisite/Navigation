@@ -1,6 +1,6 @@
 Homework 5 - readme.txt
 adfsfd
-
+adfadf
 
 How To Run "word-count":
      Run "word-count" using BinarySearchTree ("-b"), AVLTree ("-a"), or SplayTree ("-s"), and one

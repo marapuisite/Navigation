@@ -118,6 +118,6 @@ can see quick sort and heap sort aren't growning very quickly, while selection s
 rapidly with input size increase.
 
 	Included are the following plots:fff
-	     quick.ps - QuickSort graph.
+	     quick.ps - QuickSort graph.ddd
 	     selection.ps - SelectionSort graph.
 	     heap.ps - HeapSort graph.

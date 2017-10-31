@@ -119,5 +119,5 @@ rapidly with input size increase.
 
 	Included are the following plots:fff
 	     quick.ps - QuickSort graph.
-	     selection.ps - SelectionSort graph.
+	     selection.ps - SelectionSort graph.ch
 	     heap.ps - HeapSort graph.
